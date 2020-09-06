@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/color-tracking/static/css/main.6e97dd6d.chunk.css",
+    "main.js": "/color-tracking/static/js/main.6902dd28.chunk.js",
+    "main.js.map": "/color-tracking/static/js/main.6902dd28.chunk.js.map",
+    "runtime-main.js": "/color-tracking/static/js/runtime-main.27aa508c.js",
+    "runtime-main.js.map": "/color-tracking/static/js/runtime-main.27aa508c.js.map",
+    "static/js/2.561ec5ab.chunk.js": "/color-tracking/static/js/2.561ec5ab.chunk.js",
+    "static/js/2.561ec5ab.chunk.js.map": "/color-tracking/static/js/2.561ec5ab.chunk.js.map",
+    "index.html": "/color-tracking/index.html",
+    "precache-manifest.f52f12e6edc7a0a0d31ecbf874b813b6.js": "/color-tracking/precache-manifest.f52f12e6edc7a0a0d31ecbf874b813b6.js",
+    "service-worker.js": "/color-tracking/service-worker.js",
+    "static/css/main.6e97dd6d.chunk.css.map": "/color-tracking/static/css/main.6e97dd6d.chunk.css.map",
+    "static/js/2.561ec5ab.chunk.js.LICENSE.txt": "/color-tracking/static/js/2.561ec5ab.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27aa508c.js",
+    "static/js/2.561ec5ab.chunk.js",
+    "static/css/main.6e97dd6d.chunk.css",
+    "static/js/main.6902dd28.chunk.js"
+  ]
+}
